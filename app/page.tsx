@@ -137,7 +137,10 @@ export default function Home() {
           <li>Social Media Manager, Holcombe Jenkins Scholars Planning Board</li>
         </ul>
       </section>
-
+<footer className="mt-10 text-center text-sm text-gray-500">
+  2026 Annet Ramirez Hernandez
+</footer>
     </main>
+    
   );
 }

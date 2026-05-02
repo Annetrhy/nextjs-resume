@@ -32,7 +32,7 @@ This project is a personal resume website built using Next.js (App Router) and T
 
 ## Project Structure
 - All resume content is located in:
-  src/app/page.tsx
+  app/page.tsx
 
 ## Known Issues
 - No known issues at this time

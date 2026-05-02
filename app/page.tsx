@@ -129,7 +129,7 @@ export default function Home() {
         </h2>
         <ul className="list-disc ml-5 text-sm">
           <li>Vice President, USF Fashion Society</li>
-          <li>VPPA, Delta Sigma Pi Business Fraternity</li>
+          <li>VP Professional Activities, Delta Sigma Pi Business Fraternity</li>
           <li>Peer Leader, Muma Compass Program</li>
           <li>Mentee, Corporate Mentor Program</li>
           <li>Member, Accounting Society</li>

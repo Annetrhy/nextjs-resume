@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="max-w-3xl mx-auto px-6 py-10 font-sans text-gray-800">
+    <main className="max-w-3xl mx-auto px-6 py-10 font-sans text-gray-800 slide-in">
 
       {/* Header */}
       <header className="mb-8 bg-gradient-to-r from-blue-950 to-blue-900 text-white p-6 rounded-lg shadow-md">
